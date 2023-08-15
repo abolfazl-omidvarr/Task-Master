@@ -20,7 +20,6 @@ TaskMaster is an innovative task management app built as a part of the final pro
 
 Here's a sneak peek at some of the screens from TaskMaster:
 
-![Dashboard1](./Images/main1.jpeg)
 ![Dashboard2](./Images/main2.jpeg)
 _Effortlessly manage and organize your tasks._
 
